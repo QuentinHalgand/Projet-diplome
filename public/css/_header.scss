@@ -1,0 +1,28 @@
+//$gris:#224866;
+
+//%police{
+//  font-family: "Comic Sans MS";
+//  font-size: 16pt;
+//  color: $gris;
+//}
+//
+//.arti{
+//  background-color: #718C00;
+//  @extend %police;
+//}
+//
+.navih{
+  text-decoration: none;
+  font-size: 22pt;
+  color: #222222;
+}
+
+.list{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  list-style-type: none;
+}
+.bcgh{
+  background-color: #9DC8C8;
+}
